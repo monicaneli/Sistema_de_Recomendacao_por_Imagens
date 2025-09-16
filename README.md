@@ -19,7 +19,9 @@ O fluxo do sistema consiste em:
 3. **Indexação dos vetores** em FAISS.
 4. **Consulta e recomendação**, retornando produtos similares à imagem fornecida.
 
+Exemplos de recomendações:
 
+![Resultado das recomendações](https://github.com/monicaneli/Sistema_de_Recomendacao_por_Imagens/blob/fcc30df2d5b5f55be8706ec85ff682bc1c590d9f/recomendacao-visual.png)
 
 
 
